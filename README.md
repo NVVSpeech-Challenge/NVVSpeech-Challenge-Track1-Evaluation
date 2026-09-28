@@ -25,3 +25,13 @@ dataset channel rather than committed to Git.
 Detailed metric definitions can be found in the official [NVVSpeech Challenge website](https://nvvspeech-challenge.github.io/).
 
 Huggingface: [Track 1 test set](https://huggingface.co/datasets/NVVSpeech-Challenge/NVVSpeech-Challenge-Track1-Test-Set)
+
+
+```bibtex
+@article{xue2026nvv,
+  title={NVV-SuperBench: Beyond Words, Beyond Quality-Benchmarking Nonverbal Vocalizations in Speech Generation},
+  author={Xue, Liumeng and Bian, Weizhen and Pan, Jiahao and Wu, Wenxuan and Ren, Yilin and Kang, Boyi and Hu, Jingbin and Ma, Ziyang and Wang, Shuai and Qian, Xinyuan and others},
+  journal={arXiv preprint arXiv:2604.16211},
+  year={2026}
+}
+```
