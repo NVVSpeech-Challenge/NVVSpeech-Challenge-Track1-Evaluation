@@ -26,7 +26,7 @@ Detailed metric definitions can be found in the official [NVVSpeech Challenge we
 
 Huggingface: [Track 1 test set](https://huggingface.co/datasets/NVVSpeech-Challenge/NVVSpeech-Challenge-Track1-Test-Set)
 
-
+The evaluation framework behind the challenge is described in the [NVV-SuperBench](https://arxiv.org/abs/2604.16211) paper. If you use this challenge or its evaluation protocol in your work, please cite:
 ```bibtex
 @article{xue2026nvv,
   title={NVV-SuperBench: Beyond Words, Beyond Quality-Benchmarking Nonverbal Vocalizations in Speech Generation},
