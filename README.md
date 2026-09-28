@@ -22,4 +22,6 @@ repository. The supplied test package contains 1,946 audio files (985 Chinese
 and 961 English) and should be distributed through the challenge's approved
 dataset channel rather than committed to Git.
 
+Detailed metric definitions can be found in the official [NVVSpeech Challenge website](https://nvvspeech-challenge.github.io/).
+
 Huggingface: [Track 1 test set](https://huggingface.co/datasets/NVVSpeech-Challenge/NVVSpeech-Challenge-Track1-Test-Set)
